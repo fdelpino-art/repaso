@@ -1,2 +1,1 @@
-# repaso
-repositorio de prueba modulo 2 REPASO
+este es un proyecto de prueba y clonarlo    
